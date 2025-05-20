@@ -1,4 +1,8 @@
 {
   "name": "micro-fe-demo",
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.9.1",
+  "workspaces": [
+    "shell",
+    "marketing"
+  ]
 }
